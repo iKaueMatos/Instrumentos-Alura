@@ -17,7 +17,7 @@ Funcionalidade 5:
 📁 Acesso ao projeto Você pode acessar os arquivos do projeto clicando aqui. https://ikauematos.github.io/Instrumentos-Alura/
 
 
-Projeto:
+Imagem:
 
 ![image](https://user-images.githubusercontent.com/98132837/175786514-e53e4b0f-7915-400c-a05f-ecb7359a3e69.png)
 
