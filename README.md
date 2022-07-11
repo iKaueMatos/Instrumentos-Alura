@@ -1,5 +1,21 @@
-# Instrumentos-Alura
-Olá devs tudo bem com vocês? hoje venho compartilha mais um projeto e dessa vez utilizando Java script para a identificação de comando inseridos pelo teclado para a reprodução de instrumentos
+Resumo do projeto:
+
+🔨 Funcionalidades do projeto:
+
+Funcionalidade 1:Selecionar teclas com teclado
+
+Funcionalidade 2:Reprodução de som (instrumentos)
+
+Funcionalidade 3:Efeitos no botão
+
+Funcionalidade 4:
+
+Funcionalidade 5:
+
+✔️ Técnicas e tecnologias utilizadas:Html,Css e javaScript
+
+📁 Acesso ao projeto Você pode acessar os arquivos do projeto clicando aqui. https://ikauematos.github.io/Instrumentos-Alura/
+
 
 Projeto:
 
